@@ -1,0 +1,2 @@
+alfred-open-in-terminal
+=======================
